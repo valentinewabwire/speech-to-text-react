@@ -1,3 +1,10 @@
+Speech to text app is built using the latest technologies and best practices. It's purpose is to take speech command and convert it to text.
+
+# Architecture
+
+- React for the front-end
+  react-speech-recognition dependancy is used: a library for adding speech recognition to your React application.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
