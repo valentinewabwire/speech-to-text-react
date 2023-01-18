@@ -9,8 +9,19 @@ This app uses the following libraries:
 
 ## Running the app
 
-1. Run `npm install` to install the necessary dependencies.
-2. Run `npm start` to start the app.
+1. Run
+
+```
+npm install
+```
+
+to install the necessary dependencies. 2. Run
+
+```
+npm start
+```
+
+to start the app.
 
 # Getting Started with Create React App
 
