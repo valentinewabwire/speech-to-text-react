@@ -1,3 +1,17 @@
+# speech-to-text-react
+
+This app allows the user to control certain aspects of the app through speech commands. The commands that can be used are defined in the commands array in the App component. Some examples include "reset", "clear", "open [website]", "increase text size", "decrease text size", and "change text colour to [color]". The app also checks if the browser supports speech recognition and if the microphone is available. If either of these conditions are not met, the app will return null and display an appropriate message to the user. The app also renders the transcribed speech in the content div.
+
+This app uses the following libraries:
+
+- `react-speech-recognition` for speech recognition functionality
+- `SpeechRecognition` for speech recognition functionality
+
+## Running the app
+
+1. Run `npm install` to install the necessary dependencies.
+2. Run `npm start` to start the app.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
