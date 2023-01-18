@@ -9,7 +9,21 @@ This app uses the following libraries:
 
 ## Running the app
 
-1. Run
+1. Open the terminal and navigate to the directory where you want to clone the repository.
+
+2. Run the below command to clone the repository.
+
+```
+git clone https://github.com/valentinewabwire/speech-to-text-react.git
+```
+
+3. After successfully cloning the repository, navigate to the project directory by running
+
+```
+cd speech-to-text-react
+```
+
+4. Run
 
 ```
 npm install
@@ -18,7 +32,7 @@ npm install
 to install the necessary dependencies. 2. Run
 
 ```
-npm start
+5. npm start
 ```
 
 to start the app.
